@@ -63,9 +63,8 @@
 18.网易云音乐有哪些评论过万的歌曲？
 	https://www.zhihu.com/question/31677442/answer/119959112
 	
-19.音乐下载网站
-	http://music.sonimei.cn/
-	http://www.gequdaquan.net/gqss/
+19.全网最全－如何免费下载付费音乐歌曲
+	https://blog.csdn.net/mp624183768/article/details/86007237
 	
 20.有哪些值得推荐的中国近代史书籍？
 	https://www.zhihu.com/question/20937728
@@ -89,8 +88,6 @@
 	
 22.ss免费账号
 	https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
-	
-	https://www.baidu.com/
 	
 
 
