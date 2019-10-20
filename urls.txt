@@ -1,19 +1,19 @@
-1.centos6.5 使用setup配置网络
+centos6.5 使用setup配置网络
 	https://blog.csdn.net/LLX123654/article/details/51733748
 	
-2.IP地址查询
+IP地址查询
 	http://www.ip138.com/
 
-3.修改系统语言(centos6.命令行)
+修改系统语言(centos6.命令行)
 	https://www.jianshu.com/p/b5d109049ab5
 	
-5.PC端下载play商店软件
-	https://www.apkmonk.com/
+PC端下载play商店软件
+	https://apkpure.com/cn/
 	
-6.查看服务器
+查看服务器
 	https://www.netcraft.com/
 	
-8.电子书下载网站:
+电子书下载网站:
 	ePUBee
 	http://cn.epubee.com/books/
 	
@@ -31,45 +31,39 @@
 	
 	走读派
 	http://www.zoudupai.com/
-
-9.电子书辅助网站:
+	
 	书伴
 	https://bookfere.com/
-	
-	亚马逊中国
-	https://www.amazon.cn/
 
-11.Win10 1709开机自动打开上次未关闭程序怎么办_百度经验
+Win10 1709开机自动打开上次未关闭程序怎么办_百度经验
 	https://jingyan.baidu.com/article/11c17a2c23d93ef447e39d53.html
 
-12.Win10电脑在睡眠后免输入帐号密码、自动登录_百度经验
+Win10电脑在睡眠后免输入帐号密码、自动登录_百度经验
 	https://jingyan.baidu.com/article/a65957f4d6e0ec24e67f9b15.html
 
-13.关闭迅雷极速版升级提醒
+关闭迅雷极速版升级提醒
 	https://www.moyanjun.cn/turn-off-thunder-speed-edition-upgrade-reminder.html
 
-14.win10自带应用删除后该如何恢复？win10找到默认应用的方法！
+win10自带应用删除后该如何恢复？win10找到默认应用的方法！
 	http://www.xitonghe.com/jiaocheng/Windows10-10144.html
 	
-15金庸小说全集
-	https://www.jinyongwang.com/book/
-	
-16.取消开机登陆密码(windows)
+取消开机登陆密码(windows)
 	Win+R组合键 netplwiz
 	
-17.怎么查看网站IP
+怎么查看网站IP
 	cmd下面 --> nslookup www.baidu.com
 
-18.网易云音乐有哪些评论过万的歌曲？
+网易云音乐有哪些评论过万的歌曲？
 	https://www.zhihu.com/question/31677442/answer/119959112
 	
-19.全网最全－如何免费下载付费音乐歌曲
+全网最全－如何免费下载付费音乐歌曲
 	https://blog.csdn.net/mp624183768/article/details/86007237
 	
-20.有哪些值得推荐的中国近代史书籍？
+有哪些值得推荐的中国近代史书籍？
 	https://www.zhihu.com/question/20937728
-	
-21.SQLyog激活码
+
+
+SQLyog激活码
 	姓名（Name）：cr173
 
 	序列号（Code）：8d8120df-a5c3-4989-8f47-5afc79c56e7c
@@ -86,7 +80,7 @@
 
 	序列号（Code）：ec38d297-0543-4679-b098-4baadf91f983
 	
-22.ss免费账号
+ss免费账号
 	https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 	
 
