@@ -5,3 +5,7 @@ Spring Security开发安全的REST服务
 Java开发企业级权限管理系统
 	链接：https://pan.baidu.com/s/1AXNdo8_We8SnUyPAJUuxvw 
 	提取码：vt7w 
+	
+黑马JAVA57期	
+	链接：https://pan.baidu.com/s/1p9xHba8NIcQTBY2FI2ncog 
+	提取码：waj2 
