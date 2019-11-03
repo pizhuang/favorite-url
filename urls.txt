@@ -83,5 +83,17 @@ SQLyog激活码
 ss免费账号
 	https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 	
+mybatis传入参数为Integer/String/Map/Object
+	https://www.jianshu.com/p/709f9825b6c3
+	
+详解select count（1）什么意思
+	https://my.oschina.net/1024345181/blog/338627
+	
+Guava中Splitter和Joiner的用法
+	https://blog.csdn.net/zbw18297786698/article/details/73223574/
+	
+ApplicationContextAware使用理解
+	https://www.jianshu.com/p/4c0723615a52
+	
 
 
