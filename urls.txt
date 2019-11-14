@@ -95,5 +95,33 @@ Guava中Splitter和Joiner的用法
 ApplicationContextAware使用理解
 	https://www.jianshu.com/p/4c0723615a52
 	
+什么是原子性,什么是原子性操作？
+	https://blog.csdn.net/Android_Mrchen/article/details/77866490
+	
+理解事务——原子性、一致性、隔离性和持久性
+	理解事务——原子性、一致性、隔离性和持久性
+	
+送给需要的人：企查查会员账号+天眼查会员账号免费分享
+	https://www.fulichao.com/20712.html
+	
+天眼查VIP账号分享
+	https://jike.info/topic/80/%E5%A4%A9%E7%9C%BC%E6%9F%A5vip%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB
+	
+Spring MVC的Controller统一异常处理：HandlerExceptionResolver
+	https://blog.csdn.net/xiao__gui/article/details/45422649
+	
+IDEA在当前类中查找方法快捷键
+	https://blog.csdn.net/weixin_40739833/article/details/81298472
+	
+SpringBoot LoggerFactory is not a Logback LoggerContext but Logback is on the classpath
+	https://www.cnblogs.com/exmyth/p/11080547.html
+	
+SpringMVC执行流程及工作原理
+	https://www.jianshu.com/p/8a20c547e245
+	
+理解Spring中的IOC和AOP
+	https://juejin.im/post/5a1cd072f265da432240ef18
+	
+
 
 
