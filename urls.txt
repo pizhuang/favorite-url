@@ -122,6 +122,12 @@ SpringMVC执行流程及工作原理
 理解Spring中的IOC和AOP
 	https://juejin.im/post/5a1cd072f265da432240ef18
 	
+String：字符串常量池
+	https://segmentfault.com/a/1190000009888357
+	
+使用java中汇编指令解析String对象（String s1="a";String s2=s1+"b";String s3=new String("a");String s4=s3+"a";）
+	https://blog.csdn.net/chenshuang_com/article/details/7743296
+	
 
 
 
