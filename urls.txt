@@ -128,6 +128,35 @@ String：字符串常量池
 使用java中汇编指令解析String对象（String s1="a";String s2=s1+"b";String s3=new String("a");String s4=s3+"a";）
 	https://blog.csdn.net/chenshuang_com/article/details/7743296
 	
+java中判断素数的六种方法
+	https://blog.csdn.net/kp_liu/article/details/37569507
+	
+CentOS安装JDK8
+	https://juejin.im/post/5ba888d4e51d450e8d766cfa
+	
+yum install mysql-community-server依赖关系错误
+	https://www.jianshu.com/p/7b8c4dea6829
+	
+Centos 6.5 安装 mysql5.7
+	https://www.jianshu.com/p/5fa0cbe16bd7
+	
+CentOS 7 下开启Mysql-5.7.19远程访问
+	https://blog.csdn.net/u010758410/article/details/76381632
+	
+CentOS 7下Tomcat安装与配置教程（Tomcat开机启动）
+	https://ken.io/note/centos7-tomcat-setup
+	
+centos6.0中Tomcat设置开机启动
+	https://www.jianshu.com/p/9d0f594aee66
+	
+Windows版Redis设置成开机自动启动
+	https://my.oschina.net/junko2013/blog/874517
+	
+CentOS6 安装 Redis
+	https://segmentfault.com/a/1190000002685224
+	
+Redis 安装报错 error: jemalloc/jemalloc.h: No such file or directory解决方法
+	https://blog.csdn.net/bugall/article/details/45914867
 
 
 
